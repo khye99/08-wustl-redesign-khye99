@@ -54,6 +54,12 @@ h1 {
   font-size: 40px;
 }
 
+#specific{
+  color: black;
+  font-size: 25px;
+  background: rgba(255, 255, 255, 0.5);
+}
+
 #special {
   background: rgba(96, 241, 251, 0.8);
   padding: 1px;
